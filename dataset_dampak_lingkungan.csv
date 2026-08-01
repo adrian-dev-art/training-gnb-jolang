@@ -1,0 +1,351 @@
+ID,Suhu,Humid,Hujan,NDVI,Luas Konversi,Kecamatan,Label
+D001,25.1,88,579,0.76,135,Ulu Rawas,Rendah
+D002,29.3,83,231,0.56,395,Karang Dapo,Sedang
+D003,24.9,90,477,0.72,152,Ulu Rawas,Rendah
+D004,24.8,89,708,0.79,117,Ulu Rawas,Rendah
+D005,31.9,90,216,0.39,1843,Rawas Ilir,Tinggi
+D006,31.4,89,120,0.35,1565,Nibung,Sedang
+D007,25.0,91,867,0.69,177,Karang Jaya,Rendah
+D008,31.8,84,90,0.37,1846,Rawas Ilir,Tinggi
+D009,31.4,68,54,0.51,618,Rawas Ulu,Sedang
+D010,28.3,87,114,0.59,618,Rawas Ulu,Sedang
+D011,30.7,89,372,0.3,1585,Nibung,Sedang
+D012,31.3,88,234,0.3,1887,Rawas Ilir,Sedang
+D013,27.8,88,318,0.47,483,Karang Dapo,Rendah
+D014,31.1,88,240,0.37,1858,Rawas Ilir,Sedang
+D015,28.2,87,522,0.51,621,Rawas Ulu,Sedang
+D016,31.3,88,228,0.41,1409,Nibung,Sedang
+D017,26.1,87,627,0.68,179,Karang Jaya,Rendah
+D018,30.6,86,183,0.3,1919,Rawas Ilir,Sedang
+D019,28.8,89,561,0.6,523,Rupit,Sedang
+D020,27.5,87,153,0.5,634,Rawas Ulu,Rendah
+D021,28.9,71,129,0.79,200,Karang Jaya,Sedang
+D022,23.1,87,330,0.8,64,Ulu Rawas,Rendah
+D023,30.6,91,621,0.32,1511,Nibung,Sedang
+D024,24.8,83,120,0.81,172,Ulu Rawas,Rendah
+D025,30.6,69,15,0.62,542,Rupit,Sedang
+D026,28.6,89,78,0.53,627,Rawas Ulu,Sedang
+D027,29.4,87,225,0.55,399,Karang Dapo,Sedang
+D028,32.1,81,9,0.34,1869,Rawas Ilir,Tinggi
+D029,30.6,87,183,0.38,1573,Nibung,Sedang
+D030,25.8,93,609,0.72,247,Karang Jaya,Rendah
+D031,30.6,88,366,0.32,1835,Rawas Ilir,Sedang
+D032,30.2,80,171,0.62,472,Rupit,Sedang
+D033,25.8,89,303,0.7,74,Karang Jaya,Rendah
+D034,30.1,83,36,0.57,532,Karang Dapo,Sedang
+D035,24.0,90,321,0.81,24,Ulu Rawas,Rendah
+D036,30.7,86,117,0.38,1913,Rawas Ilir,Sedang
+D037,28.1,89,771,0.47,531,Karang Dapo,Sedang
+D038,27.2,90,306,0.75,63,Karang Jaya,Rendah
+D039,29.6,81,135,0.52,640,Rawas Ulu,Sedang
+D040,28.2,89,786,0.56,692,Rawas Ulu,Sedang
+D041,29.1,74,0,0.54,440,Karang Dapo,Sedang
+D042,27.8,88,99,0.63,457,Rupit,Rendah
+D043,28.5,89,567,0.54,497,Karang Dapo,Sedang
+D044,29.2,90,1077,0.62,476,Rupit,Sedang
+D045,30.5,78,0,0.59,558,Rupit,Sedang
+D046,29.0,86,138,0.48,490,Karang Dapo,Sedang
+D047,30.6,87,111,0.32,1889,Rawas Ilir,Sedang
+D048,25.6,85,129,0.76,80,Ulu Rawas,Rendah
+D049,31.0,86,201,0.29,1774,Rawas Ilir,Sedang
+D050,28.8,85,99,0.52,583,Rawas Ulu,Sedang
+D051,30.2,89,186,0.34,1840,Rawas Ilir,Sedang
+D052,27.8,90,504,0.55,494,Rupit,Rendah
+D053,28.5,79,30,0.56,476,Rupit,Sedang
+D054,29.1,86,534,0.54,714,Rawas Ulu,Sedang
+D055,26.8,89,279,0.68,219,Karang Jaya,Rendah
+D056,25.6,90,345,0.75,188,Karang Jaya,Rendah
+D057,25.1,76,0,0.81,125,Ulu Rawas,Rendah
+D058,28.4,87,669,0.56,491,Karang Dapo,Sedang
+D059,28.7,84,165,0.48,453,Karang Dapo,Sedang
+D060,27.4,87,681,0.56,500,Karang Dapo,Rendah
+D061,33.1,60,3,0.58,559,Rupit,Tinggi
+D062,29.6,84,351,0.61,521,Rupit,Sedang
+D063,31.3,82,63,0.36,1514,Nibung,Sedang
+D064,29.0,88,576,0.51,650,Rawas Ulu,Sedang
+D065,31.5,88,657,0.33,1828,Rawas Ilir,Sedang
+D066,27.1,85,36,0.74,235,Karang Jaya,Rendah
+D067,29.1,87,120,0.55,487,Karang Dapo,Sedang
+D068,24.9,85,252,0.73,58,Ulu Rawas,Rendah
+D069,28.2,82,105,0.69,215,Karang Jaya,Sedang
+D070,26.6,90,576,0.7,158,Karang Jaya,Rendah
+D071,28.6,85,111,0.64,492,Rupit,Sedang
+D072,25.1,88,324,0.76,98,Karang Jaya,Rendah
+D073,26.5,89,591,0.75,132,Karang Jaya,Rendah
+D074,24.2,91,1035,0.73,46,Ulu Rawas,Rendah
+D075,26.3,89,159,0.73,114,Karang Jaya,Rendah
+D076,29.6,87,378,0.56,490,Karang Dapo,Sedang
+D077,30.0,92,288,0.35,1873,Rawas Ilir,Sedang
+D078,28.2,86,204,0.69,209,Karang Jaya,Sedang
+D079,28.8,90,549,0.64,459,Rupit,Sedang
+D080,28.5,89,216,0.53,514,Rupit,Sedang
+D081,22.6,85,66,0.81,56,Ulu Rawas,Rendah
+D082,25.8,90,378,0.72,232,Karang Jaya,Rendah
+D083,30.8,90,258,0.33,1862,Rawas Ilir,Sedang
+D084,30.3,88,138,0.37,1853,Rawas Ilir,Sedang
+D085,26.4,90,1437,0.73,185,Karang Jaya,Rendah
+D086,28.7,90,642,0.56,555,Rawas Ulu,Sedang
+D087,28.8,89,309,0.58,497,Rupit,Sedang
+D088,29.5,90,462,0.5,490,Karang Dapo,Sedang
+D089,28.8,87,57,0.54,618,Rawas Ulu,Sedang
+D090,31.0,92,447,0.3,1871,Rawas Ilir,Sedang
+D091,28.5,88,207,0.58,573,Rupit,Sedang
+D092,28.5,85,255,0.49,454,Karang Dapo,Sedang
+D093,26.2,85,171,0.72,158,Karang Jaya,Rendah
+D094,30.4,90,141,0.39,1846,Rawas Ilir,Sedang
+D095,24.4,87,318,0.74,11,Ulu Rawas,Rendah
+D096,30.0,88,741,0.33,1920,Rawas Ilir,Sedang
+D097,28.0,89,747,0.6,590,Rupit,Rendah
+D098,32.8,72,18,0.31,1550,Nibung,Tinggi
+D099,27.8,87,198,0.54,501,Rupit,Rendah
+D100,30.0,81,105,0.52,467,Rupit,Sedang
+D101,31.0,88,138,0.33,1805,Rawas Ilir,Sedang
+D102,28.2,88,342,0.49,596,Rawas Ulu,Sedang
+D103,29.0,85,417,0.52,492,Rawas Ulu,Sedang
+D104,30.0,89,444,0.38,1836,Rawas Ilir,Sedang
+D105,28.8,76,0,0.48,573,Rawas Ulu,Sedang
+D106,29.1,86,84,0.58,577,Rawas Ulu,Sedang
+D107,25.6,86,72,0.78,96,Karang Jaya,Rendah
+D108,27.2,86,525,0.59,495,Rupit,Rendah
+D109,31.5,72,3,0.35,1857,Rawas Ilir,Sedang
+D110,29.3,90,162,0.52,535,Rupit,Sedang
+D111,27.9,86,153,0.57,541,Rupit,Rendah
+D112,25.7,68,6,0.78,70,Ulu Rawas,Rendah
+D113,27.2,83,225,0.56,684,Rawas Ulu,Rendah
+D114,31.0,72,9,0.59,649,Rupit,Sedang
+D115,29.7,84,360,0.5,676,Rawas Ulu,Sedang
+D116,25.7,89,405,0.79,139,Karang Jaya,Rendah
+D117,26.6,89,348,0.73,118,Karang Jaya,Rendah
+D118,26.6,90,207,0.8,295,Karang Jaya,Rendah
+D119,28.0,88,693,0.62,543,Rupit,Rendah
+D120,31.6,73,0,0.29,1835,Rawas Ilir,Tinggi
+D121,30.6,68,27,0.48,430,Karang Dapo,Sedang
+D122,25.8,87,414,0.77,141,Karang Jaya,Rendah
+D123,31.4,86,153,0.38,1492,Nibung,Sedang
+D124,24.0,89,138,0.79,111,Ulu Rawas,Rendah
+D125,31.7,89,132,0.35,1504,Nibung,Tinggi
+D126,27.4,86,216,0.6,614,Rawas Ulu,Rendah
+D127,28.2,88,501,0.59,642,Rawas Ulu,Sedang
+D128,28.6,88,105,0.4,1632,Nibung,Sedang
+D129,29.8,92,432,0.37,1819,Rawas Ilir,Sedang
+D130,31.3,85,603,0.38,1874,Rawas Ilir,Sedang
+D131,27.6,86,30,0.69,128,Karang Jaya,Rendah
+D132,28.3,83,27,0.5,592,Rawas Ulu,Sedang
+D133,29.9,88,513,0.6,620,Rawas Ulu,Sedang
+D134,25.3,90,672,0.78,195,Karang Jaya,Rendah
+D135,30.3,88,450,0.37,1868,Rawas Ilir,Sedang
+D136,24.5,90,231,0.84,100,Ulu Rawas,Rendah
+D137,27.0,85,108,0.7,164,Karang Jaya,Rendah
+D138,27.4,86,540,0.57,393,Rupit,Rendah
+D139,29.3,89,18,0.33,1916,Rawas Ilir,Sedang
+D140,24.2,84,99,0.77,134,Ulu Rawas,Rendah
+D141,27.7,87,384,0.54,580,Rupit,Rendah
+D142,31.0,87,78,0.39,1821,Rawas Ilir,Sedang
+D143,28.8,89,39,0.54,561,Rawas Ulu,Sedang
+D144,28.6,87,936,0.54,512,Karang Dapo,Sedang
+D145,28.1,85,462,0.54,585,Rawas Ulu,Sedang
+D146,30.9,65,0,0.57,506,Rupit,Sedang
+D147,22.6,89,177,0.78,105,Ulu Rawas,Rendah
+D148,29.9,88,228,0.31,1839,Rawas Ilir,Sedang
+D149,28.0,89,198,0.61,490,Rupit,Sedang
+D150,30.7,65,0,0.52,394,Rupit,Sedang
+D151,27.5,90,414,0.57,582,Rawas Ulu,Rendah
+D152,31.2,80,21,0.37,1756,Rawas Ilir,Sedang
+D153,24.6,90,219,0.75,123,Ulu Rawas,Rendah
+D154,28.1,82,21,0.48,538,Karang Dapo,Sedang
+D155,25.5,91,408,0.75,111,Karang Jaya,Rendah
+D156,30.6,88,489,0.33,1587,Nibung,Sedang
+D157,31.7,89,120,0.39,1524,Nibung,Tinggi
+D158,27.0,88,252,0.76,154,Karang Jaya,Rendah
+D159,30.0,84,330,0.53,605,Rawas Ulu,Sedang
+D160,24.9,91,159,0.76,198,Karang Jaya,Rendah
+D161,24.0,85,36,0.77,50,Ulu Rawas,Rendah
+D162,31.5,92,213,0.33,1806,Rawas Ilir,Tinggi
+D163,26.3,87,111,0.77,237,Karang Jaya,Rendah
+D164,24.6,82,12,0.77,148,Ulu Rawas,Rendah
+D165,26.8,90,660,0.7,97,Karang Jaya,Rendah
+D166,24.8,84,96,0.73,109,Ulu Rawas,Rendah
+D167,28.0,91,372,0.56,448,Karang Dapo,Rendah
+D168,30.5,69,0,0.59,589,Rupit,Sedang
+D169,25.6,74,6,0.84,69,Ulu Rawas,Rendah
+D170,27.6,84,279,0.59,515,Rupit,Rendah
+D171,29.2,87,204,0.47,398,Karang Dapo,Sedang
+D172,31.0,86,39,0.37,1864,Rawas Ilir,Sedang
+D173,30.6,67,0,0.58,471,Karang Dapo,Sedang
+D174,28.3,81,3,0.59,687,Rawas Ulu,Sedang
+D175,29.1,87,204,0.47,553,Karang Dapo,Sedang
+D176,27.0,87,972,0.55,602,Rupit,Rendah
+D177,30.2,92,282,0.36,1629,Nibung,Sedang
+D178,29.4,88,447,0.55,614,Rupit,Sedang
+D179,33.8,66,21,0.32,1597,Nibung,Tinggi
+D180,25.4,84,42,0.76,35,Ulu Rawas,Rendah
+D181,29.0,88,99,0.5,545,Rawas Ulu,Sedang
+D182,31.7,82,15,0.34,1892,Rawas Ilir,Tinggi
+D183,30.3,76,3,0.57,621,Rawas Ulu,Sedang
+D184,29.2,92,903,0.54,498,Rupit,Sedang
+D185,28.5,75,0,0.58,580,Rupit,Sedang
+D186,26.3,90,879,0.79,205,Karang Jaya,Rendah
+D187,31.2,79,228,0.38,1514,Nibung,Sedang
+D188,29.2,81,30,0.53,429,Karang Dapo,Sedang
+D189,25.1,90,1443,0.81,46,Ulu Rawas,Rendah
+D190,28.5,87,354,0.52,652,Rawas Ulu,Sedang
+D191,26.7,77,90,0.7,148,Karang Jaya,Rendah
+D192,31.2,87,306,0.39,1830,Rawas Ilir,Sedang
+D193,28.3,91,462,0.59,653,Rawas Ulu,Sedang
+D194,29.6,88,189,0.55,576,Rupit,Sedang
+D195,28.4,76,0,0.5,620,Rawas Ulu,Sedang
+D196,30.9,87,126,0.39,1874,Rawas Ilir,Sedang
+D197,24.1,89,324,0.74,58,Ulu Rawas,Rendah
+D198,26.7,87,225,0.7,125,Karang Jaya,Rendah
+D199,24.4,78,237,0.84,102,Ulu Rawas,Rendah
+D200,24.6,85,111,0.78,58,Ulu Rawas,Rendah
+D201,28.8,87,759,0.57,520,Rupit,Sedang
+D202,29.3,89,147,0.5,457,Karang Dapo,Sedang
+D203,30.8,87,165,0.37,1822,Rawas Ilir,Sedang
+D204,23.6,90,426,0.73,138,Ulu Rawas,Rendah
+D205,27.7,89,495,0.6,524,Rupit,Rendah
+D206,28.1,87,42,0.56,611,Rawas Ulu,Sedang
+D207,24.3,83,363,0.8,148,Ulu Rawas,Rendah
+D208,24.6,87,243,0.79,73,Ulu Rawas,Rendah
+D209,30.1,84,360,0.33,1598,Nibung,Sedang
+D210,29.1,87,408,0.52,658,Rawas Ulu,Sedang
+D211,30.6,89,183,0.31,1522,Nibung,Sedang
+D212,29.0,83,24,0.61,670,Rupit,Sedang
+D213,30.7,73,15,0.49,654,Rawas Ulu,Sedang
+D214,27.2,89,942,0.55,714,Rawas Ulu,Rendah
+D215,33.0,83,24,0.35,1892,Rawas Ilir,Tinggi
+D216,29.0,89,333,0.56,497,Karang Dapo,Sedang
+D217,23.8,80,0,0.82,84,Ulu Rawas,Rendah
+D218,30.8,90,690,0.31,1538,Nibung,Sedang
+D219,30.8,91,345,0.36,1853,Rawas Ilir,Sedang
+D220,27.4,83,21,0.63,492,Rupit,Rendah
+D221,29.8,81,6,0.63,546,Rupit,Sedang
+D222,29.4,87,12,0.47,456,Karang Dapo,Sedang
+D223,30.9,70,0,0.53,453,Rupit,Sedang
+D224,27.3,84,159,0.6,621,Rawas Ulu,Rendah
+D225,29.6,83,267,0.64,525,Rupit,Sedang
+D226,25.5,89,747,0.68,173,Karang Jaya,Rendah
+D227,29.1,86,435,0.59,670,Rawas Ulu,Sedang
+D228,26.5,92,303,0.72,207,Karang Jaya,Rendah
+D229,26.2,88,240,0.79,104,Karang Jaya,Rendah
+D230,29.9,87,63,0.33,1614,Nibung,Sedang
+D231,30.4,84,81,0.37,1596,Nibung,Sedang
+D232,31.4,88,57,0.38,1470,Nibung,Sedang
+D233,29.1,87,189,0.58,547,Rawas Ulu,Sedang
+D234,28.8,81,0,0.55,583,Karang Dapo,Sedang
+D235,30.2,90,174,0.6,440,Rupit,Sedang
+D236,33.6,64,0,0.32,1835,Rawas Ilir,Tinggi
+D237,28.2,89,330,0.46,386,Karang Dapo,Sedang
+D238,24.6,91,1263,0.73,68,Ulu Rawas,Rendah
+D239,27.6,83,291,0.73,178,Karang Jaya,Rendah
+D240,29.7,85,396,0.58,625,Rawas Ulu,Sedang
+D241,29.9,71,18,0.5,731,Rawas Ulu,Sedang
+D242,32.9,64,0,0.35,1784,Rawas Ilir,Tinggi
+D243,27.6,87,477,0.74,168,Karang Jaya,Rendah
+D244,30.7,67,3,0.51,589,Rawas Ulu,Sedang
+D245,24.0,89,774,0.78,20,Ulu Rawas,Rendah
+D246,24.1,88,369,0.77,85,Ulu Rawas,Rendah
+D247,27.8,88,438,0.51,395,Karang Dapo,Rendah
+D248,27.0,90,477,0.57,600,Rawas Ulu,Rendah
+D249,21.9,92,699,0.79,101,Ulu Rawas,Rendah
+D250,27.9,89,1167,0.52,410,Karang Dapo,Rendah
+D251,28.7,87,804,0.54,521,Rupit,Sedang
+D252,29.2,91,249,0.38,1888,Rawas Ilir,Sedang
+D253,30.5,87,315,0.33,1825,Rawas Ilir,Sedang
+D254,31.2,88,456,0.28,1921,Rawas Ilir,Sedang
+D255,32.4,73,438,0.38,1596,Nibung,Tinggi
+D256,32.1,84,378,0.41,1575,Nibung,Tinggi
+D257,31.6,88,390,0.36,1821,Rawas Ilir,Tinggi
+D258,33.6,65,0,0.35,1880,Rawas Ilir,Tinggi
+D259,28.5,79,0,0.56,483,Karang Dapo,Sedang
+D260,30.9,88,570,0.37,1865,Rawas Ilir,Sedang
+D261,28.0,73,0,0.74,175,Karang Jaya,Rendah
+D262,30.0,89,513,0.38,1587,Nibung,Sedang
+D263,28.9,90,321,0.54,490,Rupit,Sedang
+D264,32.2,89,48,0.35,1602,Nibung,Tinggi
+D265,33.9,64,27,0.32,1835,Rawas Ilir,Tinggi
+D266,28.7,89,351,0.54,541,Rupit,Sedang
+D267,25.5,88,186,0.79,94,Ulu Rawas,Rendah
+D268,29.5,87,198,0.4,1567,Nibung,Sedang
+D269,27.2,75,9,0.76,143,Karang Jaya,Rendah
+D270,31.1,87,621,0.4,1538,Nibung,Sedang
+D271,26.5,89,489,0.75,150,Karang Jaya,Rendah
+D272,29.6,88,33,0.57,710,Rawas Ulu,Sedang
+D273,29.3,88,153,0.35,1847,Rawas Ilir,Sedang
+D274,27.5,88,198,0.56,461,Karang Dapo,Rendah
+D275,23.6,92,1041,0.73,163,Ulu Rawas,Rendah
+D276,27.7,87,162,0.56,459,Karang Dapo,Rendah
+D277,23.8,89,339,0.78,74,Ulu Rawas,Rendah
+D278,30.0,86,198,0.3,1895,Rawas Ilir,Sedang
+D279,29.2,83,12,0.49,463,Karang Dapo,Sedang
+D280,29.5,86,264,0.52,556,Rupit,Sedang
+D281,25.6,68,3,0.82,78,Ulu Rawas,Rendah
+D282,30.7,86,255,0.34,1547,Nibung,Sedang
+D283,28.4,89,243,0.57,516,Karang Dapo,Sedang
+D284,26.5,89,657,0.49,580,Rawas Ulu,Rendah
+D285,28.1,73,0,0.71,133,Karang Jaya,Sedang
+D286,31.4,89,213,0.31,1523,Nibung,Sedang
+D287,28.5,88,678,0.55,556,Rupit,Sedang
+D288,27.1,89,786,0.56,490,Rupit,Rendah
+D289,29.3,78,12,0.58,604,Karang Dapo,Sedang
+D290,29.1,85,198,0.4,1837,Rawas Ilir,Sedang
+D291,28.3,88,111,0.53,480,Karang Dapo,Sedang
+D292,29.8,89,705,0.32,1795,Rawas Ilir,Sedang
+D293,30.5,72,0,0.36,1853,Rawas Ilir,Sedang
+D294,29.6,91,387,0.34,1825,Rawas Ilir,Sedang
+D295,30.3,90,729,0.35,1869,Rawas Ilir,Sedang
+D296,31.3,89,531,0.28,1823,Rawas Ilir,Sedang
+D297,29.2,89,873,0.54,413,Karang Dapo,Sedang
+D298,24.5,89,327,0.81,34,Ulu Rawas,Rendah
+D299,28.8,86,510,0.62,491,Rupit,Sedang
+D300,30.3,89,288,0.31,1860,Rawas Ilir,Sedang
+D301,29.0,89,30,0.62,483,Rupit,Sedang
+D302,28.2,85,12,0.73,136,Karang Jaya,Sedang
+D303,30.1,91,99,0.29,1847,Rawas Ilir,Sedang
+D304,27.4,79,24,0.75,76,Karang Jaya,Rendah
+D305,27.4,87,195,0.58,604,Rawas Ulu,Rendah
+D306,31.1,89,1047,0.31,1894,Rawas Ilir,Sedang
+D307,28.6,87,198,0.52,607,Rawas Ulu,Sedang
+D308,25.4,89,267,0.79,38,Ulu Rawas,Rendah
+D309,29.2,87,396,0.53,476,Karang Dapo,Sedang
+D310,28.9,90,768,0.52,456,Karang Dapo,Sedang
+D311,31.1,82,174,0.35,1887,Rawas Ilir,Sedang
+D312,28.5,89,870,0.55,574,Rupit,Sedang
+D313,31.7,87,411,0.36,1856,Rawas Ilir,Tinggi
+D314,31.8,89,663,0.36,1547,Nibung,Tinggi
+D315,30.2,64,6,0.51,613,Rawas Ulu,Sedang
+D316,30.2,91,615,0.37,1529,Nibung,Sedang
+D317,27.8,92,225,0.5,437,Karang Dapo,Rendah
+D318,34.1,68,36,0.38,1502,Nibung,Tinggi
+D319,29.6,86,105,0.3,1925,Rawas Ilir,Sedang
+D320,28.4,89,123,0.64,561,Rupit,Sedang
+D321,26.8,87,117,0.72,154,Karang Jaya,Rendah
+D322,29.2,90,480,0.55,658,Rawas Ulu,Sedang
+D323,30.3,84,300,0.47,522,Karang Dapo,Sedang
+D324,27.2,88,114,0.73,152,Karang Jaya,Rendah
+D325,28.9,87,147,0.52,644,Rawas Ulu,Sedang
+D326,30.1,79,774,0.56,660,Rawas Ulu,Sedang
+D327,26.5,89,549,0.69,164,Karang Jaya,Rendah
+D328,27.8,88,405,0.64,489,Rupit,Rendah
+D329,25.9,87,291,0.77,146,Karang Jaya,Rendah
+D330,25.4,87,45,0.78,104,Karang Jaya,Rendah
+D331,30.1,91,234,0.36,1879,Rawas Ilir,Sedang
+D332,31.4,86,303,0.3,1876,Rawas Ilir,Sedang
+D333,27.5,89,531,0.61,400,Rupit,Rendah
+D334,29.8,86,369,0.52,532,Karang Dapo,Sedang
+D335,28.8,80,57,0.56,604,Rawas Ulu,Sedang
+D336,33.0,61,0,0.33,1801,Rawas Ilir,Tinggi
+D337,27.5,86,162,0.71,194,Karang Jaya,Rendah
+D338,33.6,63,0,0.29,1996,Rawas Ilir,Tinggi
+D339,31.7,87,12,0.4,1534,Nibung,Tinggi
+D340,24.7,90,192,0.72,79,Ulu Rawas,Rendah
+D341,30.5,87,291,0.34,1647,Nibung,Sedang
+D342,27.9,90,300,0.53,465,Karang Dapo,Rendah
+D343,31.6,91,516,0.39,1831,Rawas Ilir,Tinggi
+D344,24.4,86,162,0.78,99,Ulu Rawas,Rendah
+D345,31.4,77,9,0.39,1923,Rawas Ilir,Sedang
+D346,29.5,86,273,0.62,538,Rupit,Sedang
+D347,25.8,90,453,0.78,169,Karang Jaya,Rendah
+D348,24.5,87,219,0.75,84,Ulu Rawas,Rendah
+D349,26.7,89,60,0.74,138,Karang Jaya,Rendah
+D350,23.9,86,195,0.83,128,Ulu Rawas,Rendah
